@@ -157,3 +157,5 @@ Or use nano:
 
 8. Connect to the server using your favorite tool (e.g. pgAdmin or DBeaver), using the jail's IP address and the default port of 5432. Check to make sure you can access the new_db database.
 
+	* [pgAdmin](https://www.pgadmin.org/download/pgadmin-4-windows/)
+	* [DBeaver](https://dbeaver.io/download/)
